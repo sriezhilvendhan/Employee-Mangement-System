@@ -1,0 +1,61 @@
+@charset "UTF-8";
+body{
+	background-color: #EBF4F1;
+}
+#msg
+{
+	font-family: inter;
+	/*font-size: 20px;
+	display: flex;
+	align-items: center;
+	justify-content: center;*/
+	height: 300px;
+	width: 600px;
+	/*border: 2px solid black;*/
+	box-shadow: 0px 0px 10px gray;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-left: 30%;
+	margin-top: 100px;
+	border-radius: 5px;
+	font-family: inter;
+	font-size: 10px;
+	background-color:white;
+}
+/*#btn
+{
+	height: 40px;
+	width: 100px;
+	background-color: rgb(0, 183, 0);
+	border-radius: 30px;
+	font-size: 15px;
+	color: white;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	text-decoration: none;
+	box-shadow: 3px 3px 5px black;
+	margin-left: 600px;
+	margin-top: 40px;
+}*/
+#home{
+	height: 40px;
+	width: 100px;
+	background-color: #0C133B;
+	font-size: 15px;
+	color: white;
+	display: flex;
+	font-weight: bold;
+	align-items: center;
+	justify-content: center;
+	text-decoration: none;
+	box-shadow: 3px 3px 5px black;
+	margin-left: 640px;
+	margin-top: 40px;
+	border-radius: 10px;
+	font-family: inter;
+}
+#image
+{
+	padding-right: 10px;}
